@@ -1,0 +1,42 @@
+body {
+
+background-color: purple;
+
+}
+
+.introimg{
+position: absolute;
+left: 30%;
+top: 80px;
+
+}
+
+
+.introimg{
+position: absolute;
+
+}
+
+.btn {
+visibility: hidden;
+width: 200px;
+height: 60px;
+position: relative;
+left: 40%;
+top: 250px;
+
+}
+
+#question{
+position: absolute;
+left: 40%;
+top: 150px;
+width: 400px;
+height: 100px;
+background-color: black;
+color: red;
+font-family: 'Lucida Sans';
+font-size: large;
+
+
+}
